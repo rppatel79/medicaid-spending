@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Explore (module)",
+      "type": "python",
+      "request": "launch",
+      "module": "medicaid_spending.explore",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Convert (module)",
+      "type": "python",
+      "request": "launch",
+      "module": "medicaid_spending.convert",
+      "console": "integratedTerminal"
+    }
+  ]
+}
+
