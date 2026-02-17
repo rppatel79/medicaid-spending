@@ -7,20 +7,13 @@ This project handles downloading, converting, and exploring Medicaid provider sp
 ## Modules
 
 1. `download.py`
-   - Downloads the raw CSV dataset from the specified URL.
+   - Downloads the parquet dataset from the specified URL.
    - Run via:  
      ```bash
      python -m medicaid_spending.download
      ```
 
-2. `convert.py`
-   - Converts the downloaded CSV into a Parquet file for efficient querying.
-   - Run via:  
-     ```bash
-     python -m medicaid_spending.convert
-     ```
-
-3. `explore.py`
+2. `explore.py`
    - Provides example queries for summarizing or profiling the Parquet data.
    - Run via:  
      ```bash
