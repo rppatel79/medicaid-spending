@@ -23,7 +23,7 @@ This ensures that the observed outliers represent consistently high-cost service
 
 ### Distribution of Average Paid per Claim
 
-![Distribution of Paid per Claim](images/spending_by_teir.png)
+![Distribution of Paid per Claim](images/spending_by_tier.png)
 
 ### Interpretation
 
