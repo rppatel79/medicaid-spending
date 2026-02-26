@@ -49,7 +49,7 @@ These outliers appear as points beyond the whiskers in the box plots.
 
 ### Example: Provider Paid per Claim for a Single HCPCS
 
-![Box Plot of Provider Paid per Claim](images/paid_per_claim_outliers_T2016.png)
+![Box Plot of Provider Paid per Claim](/images/paid_per_claim_outliers_T2016.png)
 
 ---
 

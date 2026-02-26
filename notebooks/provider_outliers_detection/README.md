@@ -61,4 +61,4 @@ The notebook then ranks all flagged providers across HCPCS codes by `PERCENT_ABO
 
 ## Provider Outliner
 
-![Provider Outliner](images/provider_outlier.png)
+![Provider Outliner](/images/provider_outlier.png)
