@@ -22,7 +22,7 @@ This project handles downloading, converting, and exploring Medicaid provider sp
 
 ## Using the Notebook
 
-The Jupyter notebook (e.g., `analysis.ipynb`) allows interactive exploration:
+The Jupyter notebooks allows interactive exploration:
 - Open the notebook in VS Code.
 - Select the virtual environment kernel when prompted.
 - Run the cells to query the Parquet file, visualize results, and analyze the data interactively.
